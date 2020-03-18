@@ -1,0 +1,125 @@
+"*":
+  "Remote-FTP":
+    tree:
+      useDockIntegration: true
+  "atom-alignment": {}
+  "atom-autocomplete-php":
+    binComposer: "/Users/cbennell/.composer/composer.phar"
+    insertNewlinesForUseStatements: true
+  "atom-beautify":
+    general:
+      _analyticsUserId: "9ab59035-f170-436f-8a49-66cd10ef9744"
+  "atom-ide-ui":
+    use: {}
+  "autocomplete-plus": {}
+  "autocomplete-ruby":
+    rsensePath: "/Users/cbennell/.rbenv/shims/rsense"
+    suggestionPriority: true
+  autosave:
+    enabled: true
+  core:
+    audioBeep: false
+    closeEmptyWindows: false
+    debugLSP: true
+    disabledPackages: [
+      "move-panes-cb"
+      "keyboard-sounds"
+      "terminal-status"
+      "linter-scss-lint"
+      "linter-puppet-lint"
+      "linter-bootlint"
+      "emmet"
+      "quick-editor"
+      "pigments"
+      "atom-ide-ui"
+      "language-rspec"
+      "remote-edit"
+      "build-rake"
+      "build"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      ".sass-cache"
+      "node_modules"
+    ]
+    projectHome: "/Users/cbennell/src"
+    telemetryConsent: "limited"
+    themes: [
+      "nucleus-dark-ui"
+      "oceanic-next"
+    ]
+    titleBar: "hidden"
+    useTreeSitterParsers: true
+  csscomb: "zen"
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "Hasklig"
+    fontSize: 11
+    invisibles:
+      tab: "⇥"
+    preferredLineLength: 100
+    showInvisibles: true
+    softWrap: true
+    softWrapHangingIndent: 2
+  emmet: {}
+  "exception-reporting":
+    userId: "72e23ccb-c0d5-2a3f-961f-06f10adb8e03"
+  "file-types":
+    erb: "text.html.ruby"
+  "gitlab-integration":
+    token: "tEnysG_mR25WCQ_-U3z3"
+  global:
+    whitespace:
+      removeTrailingWhitespace: false
+  "highlight-selected": {}
+  "imdone-atom": {}
+  "language-babel":
+    allowLocalOverride: true
+    autoIndentJSX: true
+    transpileOnSave: true
+  linter:
+    lintOnChange: false
+    subtleLinterErrors: [
+      "rubocop"
+      "scss-lint"
+      "ruby"
+      "php"
+    ]
+  "linter-csslint": {}
+  "linter-eslint":
+    disabling:
+      disableWhenNoEslintConfig: false
+  "linter-puppet-lint":
+    oldVersion: true
+    puppetLintArguments: "--no-80chars-check --no-autoloader_layout-check, --no-trailing_whitespace-check"
+  "linter-rubocop":
+    command: "/Users/cbennell/.rbenv/shims/rubocop"
+  "linter-scss-lint":
+    excludedLinters: [
+      "EmptyLineBetweenBlocks"
+      "PropertySortOrder"
+      "VendorPrefix"
+      "SingleLinePerSelector"
+    ]
+    executablePath: "/opt/boxen/rbenv/shims/"
+  "linter-ui-default":
+    panelHeight: 71.75
+  "markdown-preview":
+    breakOnSingleNewline: true
+  minimap:
+    absoluteMode: true
+  "one-dark-ui": {}
+  pigments:
+    markerType: "square-dot"
+    sortPaletteColors: "by color"
+  "remote-atom": {}
+  "terminal-status": {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false

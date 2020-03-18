@@ -1,0 +1,41 @@
+[
+  {
+    title: "dash"
+    paths: [
+      "/Users/cbennell/src/dash"
+    ]
+    icon: "icon-dash"
+  }
+  {
+    title: "canvas-new"
+    paths: [
+      "/Users/cbennell/src/canvas-new"
+    ]
+    settings:
+      "global.whitespace.removeTrailingWhitespace": false
+  }
+  {
+    title: "DesignJam"
+    paths: [
+      "/Users/cbennell/src/designjam/designjam"
+    ]
+  }
+  {
+    title: "collegial"
+    paths: [
+      "/Users/cbennell/src/collegial"
+    ]
+  }
+  {
+    title: "CSDM2N18"
+    paths: [
+      "/Users/cbennell/src/csdm2n18"
+    ]
+  }
+  {
+    title: "Dash6"
+    paths: [
+      "/Users/cbennell/src/dash6"
+    ]
+  }
+]

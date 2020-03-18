@@ -1,0 +1,10 @@
+storage
+compile-cache
+dev
+.npm
+.node-gyp
+.atom-socket-secret*
+.apm
+recovery
+packages
+blob-store
