@@ -8,3 +8,5 @@ dev
 recovery
 packages
 blob-store
+remoteEdit.json
+projects.cson
